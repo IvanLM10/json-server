@@ -7,6 +7,38 @@
     {
       "id": 2,
       "title": "Tarifa 2"
+    },
+    {
+      "id": 3,
+      "title": "Tarifa 3"
+    },
+    {
+      "id": 4,
+      "title": "Tarifa 4"
+    },
+    {
+      "id": 5,
+      "title": "Tarifa 5"
+    },
+    {
+      "id": 6,
+      "title": "Tarifa 6"
+    },
+    {
+      "id": 7,
+      "title": "Tarifa 7"
+    },
+    {
+      "id": 8,
+      "title": "Tarifa 8"
+    },
+    {
+      "id": 9,
+      "title": "Tarifa 9"
+    },
+    {
+      "id": 10,
+      "title": "Tarifa 10"
     }
   ],
   "moviles": [
@@ -17,6 +49,38 @@
     {
       "id": 2,
       "title": "Movil 2"
+    },
+    {
+      "id": 3,
+      "title": "Movil 3"
+    },
+    {
+      "id": 4,
+      "title": "Movil 4"
+    },
+    {
+      "id": 5,
+      "title": "Movil 5"
+    },
+    {
+      "id": 6,
+      "title": "Movil 6"
+    },
+    {
+      "id": 7,
+      "title": "Movil 7"
+    },
+    {
+      "id": 8,
+      "title": "Movil 8"
+    },
+    {
+      "id": 9,
+      "title": "Movil 9"
+    },
+    {
+      "id": 10,
+      "title": "Movil 10"
     }
   ],
   "banner": {
