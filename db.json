@@ -2,85 +2,105 @@
   "tarifas": [
     {
       "id": 1,
-      "title": "Tarifa 1"
+      "title": "Tarifa 1",
+      "price": "Precio 1"
     },
     {
       "id": 2,
-      "title": "Tarifa 2"
+      "title": "Tarifa 2",
+      "price": "Precio 2"
     },
     {
       "id": 3,
-      "title": "Tarifa 3"
+      "title": "Tarifa 3",
+      "price": "Precio 3"
     },
     {
       "id": 4,
-      "title": "Tarifa 4"
+      "title": "Tarifa 4",
+      "price": "Precio 4"
     },
     {
       "id": 5,
-      "title": "Tarifa 5"
+      "title": "Tarifa 5",
+      "price": "Precio 5"
     },
     {
       "id": 6,
-      "title": "Tarifa 6"
+      "title": "Tarifa 6",
+      "price": "Precio 6"
     },
     {
       "id": 7,
-      "title": "Tarifa 7"
+      "title": "Tarifa 7",
+      "price": "Precio 7"
     },
     {
       "id": 8,
-      "title": "Tarifa 8"
+      "title": "Tarifa 8",
+      "price": "Precio 8"
     },
     {
       "id": 9,
-      "title": "Tarifa 9"
+      "title": "Tarifa 9",
+      "price": "Precio 9"
     },
     {
       "id": 10,
-      "title": "Tarifa 10"
+      "title": "Tarifa 10",
+      "price": "Precio 10"
     }
   ],
   "moviles": [
     {
       "id": 1,
-      "title": "Movil 1"
+      "title": "Movil 1",
+      "price": "Precio 1"
     },
     {
       "id": 2,
-      "title": "Movil 2"
+      "title": "Movil 2",
+      "price": "Precio 2"
     },
     {
       "id": 3,
-      "title": "Movil 3"
+      "title": "Movil 3",
+      "price": "Precio 3"
     },
     {
       "id": 4,
-      "title": "Movil 4"
+      "title": "Movil 4",
+      "price": "Precio 4"
     },
     {
       "id": 5,
-      "title": "Movil 5"
+      "title": "Movil 5",
+      "price": "Precio 5"
     },
     {
       "id": 6,
-      "title": "Movil 6"
+      "title": "Movil 6",
+      "price": "Precio 6"
     },
     {
       "id": 7,
-      "title": "Movil 7"
+      "title": "Movil 7",
+      "price": "Precio 7"
     },
     {
       "id": 8,
-      "title": "Movil 8"
+      "title": "Movil 8",
+      "price": "Precio 8"
     },
     {
       "id": 9,
-      "title": "Movil 9"
+      "title": "Movil 9",
+      "price": "Precio 9"
     },
     {
       "id": 10,
-      "title": "Movil 10"
+      "title": "Movil 10",
+      "price": "Precio 10"
     }
   ],
   "banner": {
